@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ui
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2065705227
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3795145167
+    locked: 0
+  - name: Tramps
+    uniqueID: 3973348051
+    locked: 0
+  - name: Tramps2
+    uniqueID: 2220731341
+    locked: 0
+  - name: Effect
+    uniqueID: 954432879
+    locked: 0
+  - name: Player
+    uniqueID: 2740746193
+    locked: 0
